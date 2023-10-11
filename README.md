@@ -22,11 +22,8 @@ Technologies Used:
 - Seaborn
 - scikit-learn
 
-# Certainly, here's a description for your second project on your GitHub profile:
 
----
-
-**Student Performance Prediction Project
+# Student Performance Prediction Project
 
 Welcome to my Student Performance Prediction Project! 📚✏️
 
